@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          App.js edited and saved.</br>
+          App.js edited and saved.
           Noch etwas mehr Text.
         </p>
         <a
