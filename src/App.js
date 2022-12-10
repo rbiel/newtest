@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import logo from './logo.jpg';
+import ceva from './cevapcici.jpg';
 import './App.css';
 
 function App() {
@@ -6,11 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <br></br>
         <p>
-          App.js edited and saved.
+          Tach Safet. Soweit hat es geklappt. Ist aber auch noch nichts Berauschendes drin.
+          <br></br>
           Noch etwas mehr Text.
         </p>
         <p>Und noch mehr Text.</p>
+        <img src={ceva} alt="hunger" />
         <a
           className="App-link"
           href="https://reactjs.org"
